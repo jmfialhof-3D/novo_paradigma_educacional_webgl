@@ -1,0 +1,12 @@
+{
+"companyName": "Novo Paradigma Educacional",
+"productName": "JFialho | Novo Paradigma Educacional",
+"dataUrl": "novo_paradigma_educacional_webgl.data.unityweb",
+"wasmCodeUrl": "novo_paradigma_educacional_webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "novo_paradigma_educacional_webgl.wasm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
